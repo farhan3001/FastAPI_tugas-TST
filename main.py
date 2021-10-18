@@ -1,5 +1,5 @@
 import json
-from fastapi import FastAPI,HTTPException, Body, Depends
+from fastapi import FastAPI,HTTPException,Depends
 from fastapi.responses import JSONResponse
 from fastapi.encoders import jsonable_encoder
 from auth.auth_bearer import JWTBearer
