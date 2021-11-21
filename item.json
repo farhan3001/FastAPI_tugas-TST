@@ -1,0 +1,24 @@
+{
+    "item": [
+        {
+            "id": 1,
+            "name": "Telur"
+        },
+        {
+            "id": 2,
+            "name": "Ayam"
+        },
+        {
+            "id": 3,
+            "name": "Daging"
+        },
+        {
+            "id": 4,
+            "name": "Roti"
+        },
+        {
+            "id": 5,
+            "name": "Sayur"
+        }
+    ]
+}

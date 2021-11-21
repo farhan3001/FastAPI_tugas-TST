@@ -1,0 +1,14 @@
+{
+    "order": [
+        {
+            "OrderID": 1,
+            "EmployeeID": "E-01",
+            "MenuID": "M-01",
+            "MenuName": "Seblak Standar",
+            "Date_Time": "01-01-2021",
+            "Quantity": 2,
+            "Price": "25.000",
+            "PaymentMethod": "Cash"
+        }
+    ]
+}
